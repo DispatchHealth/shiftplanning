@@ -3,7 +3,7 @@ require 'httparty'
 module ShiftPlanning
   class Client
     include HTTParty
-    base_uri "https://www.shiftplanning.com/api"
+    base_uri "https://www.humanity.com/api"
     attr_reader :key, :username, :password, :token
 
     def initialize(key, username, password)

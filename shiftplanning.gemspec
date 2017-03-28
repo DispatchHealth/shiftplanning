@@ -6,8 +6,8 @@ require 'shiftplanning/version'
 Gem::Specification.new do |spec|
   spec.name          = "shiftplanning"
   spec.version       = ShiftPlanning::VERSION
-  spec.authors       = ["Morgan Miller"]
-  spec.email         = ["m.miller722@gmail.com"]
+  spec.authors       = ["DispatchHealth"]
+  spec.email         = ["f.katona@dispatchhealth.com"]
   spec.summary       = %q{A gem for interfacing with the Shift Planning API}
   spec.homepage      = ""
 
