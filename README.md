@@ -1,13 +1,13 @@
-# ShiftPlanning
+# ShiftPlanning, now Humanity
 
-A gem for interfacing with the [Shift Planning API](https://www.shiftplanning.com/api/)
+A gem for interfacing with the [Shift Planning API](https://www.humanity.com/api/)
 
 ## Installation
 
 Add this line to your application's Gemfile:
 
 ```ruby
-gem 'shiftplanning', git: "git://github.com/morganmiller/shiftplanning.git"
+gem 'shiftplanning', git: "git://github.com/DispatchHealth/shiftplanning.git"
 ```
 
 And then execute:
